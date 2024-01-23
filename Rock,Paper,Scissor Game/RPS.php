@@ -74,7 +74,7 @@ else{
 echo "<h1> <font color='red'>WRONG CHOICE BY BOTH</font></h1>";
 }
 ?>
-<center>
+	</center>
 <br/>
 <img src="https://static.vecteezy.com/system/resources/previews/000/691/497/original/rock-paper-scissors-neon-icons-vector.jpg" style="height:300px; width:600px"/>
 </body>
